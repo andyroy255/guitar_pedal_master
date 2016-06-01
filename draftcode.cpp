@@ -11,7 +11,7 @@
 #define cs2 8
 #define data 9
 #define strobe 2
-#define RST A0//CHANGE THIS1
+#define RST A0//CHANGE THIS1q
 //returns
 
 #define R1 0
